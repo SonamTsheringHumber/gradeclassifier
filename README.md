@@ -14,7 +14,7 @@ python gradeclassifier.py
 
 ```text
 Enter your mark: 85
-Your mark is 85.0: Grade A
+Your mark is 85.0: Grade B
 ```
 
 ## Known limitations
