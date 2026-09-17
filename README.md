@@ -12,8 +12,8 @@ python gradeclassifier.py
 
 ## Example
 
-Enter your mark: 85
-Output: Your mar is 85.0: Grade A
+Enter your mark: 85 
+Output: Your mark is 85.0: Grade A
 
 ## Known limitations
 
